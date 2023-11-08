@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label, input {
+    margin-bottom: 10px;
+  }

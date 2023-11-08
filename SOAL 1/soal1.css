@@ -1,0 +1,18 @@
+.btn-primary{
+    background-color: rgb(227, 10, 10);
+    border: none;
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;
+    transition: .5s all ease;
+    transform: translateY(20px);
+
+    /* mengubah jenis kursor */
+    cursor: pointer;
+}
+
+.btn-primary:hover{
+    background-color: blue;
+}
